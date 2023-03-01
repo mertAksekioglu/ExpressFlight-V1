@@ -15,3 +15,5 @@ The Front-End of ExpressFlight V1 is stored in a serperate project called "front
 The Database is a PostgreSQL database stored locally in the computer. However the project also utilizes JSON data storage. Multiple json files each hold data for one entity and in each create, update or delete operation the JSON files are updated using GSON.
 
 ![ExpressFlight_Demo2](https://user-images.githubusercontent.com/40835236/222236056-6eac2583-693b-46ed-acc8-a5231d0da777.png)
+
+As seen by the pictures given the 4 values of Departure Airport, Arrival Airport, Departure Date and Return Date, the website outputs both nonstop and connecting round flights in a given date interval.
